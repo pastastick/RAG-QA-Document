@@ -28,6 +28,5 @@ streamlit
 langchain_core
 langchain_groq
 fastapi
-Uvicorn
 langserve
-sse_starlette
+huggingface_hub
