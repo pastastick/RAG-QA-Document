@@ -31,5 +31,4 @@ fastapi
 Uvicorn
 langserve
 sse_starlette
-validators
 sqlite3 
